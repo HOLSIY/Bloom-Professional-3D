@@ -1,0 +1,6 @@
+{
+  "name": "Bloom",
+  "description": "An AI-powered plant and floral design platform featuring a liquid glass morphism aesthetic over a looping video background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
